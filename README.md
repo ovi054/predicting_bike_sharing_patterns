@@ -1,2 +1,2 @@
-# predicting_bike_sharing_patterns
-Building neural network from scratch easy way. A project of udacity deep learning nanodegree.
+# Predicting bike sharing patterns
+Building neural network from scratch in easy way. A project of udacity deep learning nanodegree.
